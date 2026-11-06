@@ -1,6 +1,6 @@
 # Olá, eu sou o Luiz
 
-Desenvolvedor na **Vivest** (fundo de pensão), focado em **automação de processos e integração de sistemas**.
+Desenvolvedor focado em **automação de processos e integração de sistemas**.
 Hoje estudo **IA generativa** na Pós-graduação AI Scientist da FIAP.
 
 ### O que eu faço
